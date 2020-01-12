@@ -1,0 +1,21 @@
+__Previews
+*.~*
+*.*#
+Database Messages.txt
+History
+.history
+*.LOG
+*.local
+.metadata
+*.o
+*.PcbDocPreview
+*.PcbDoc.htm
+Project Log*
+Project Output*
+*.rar
+*.SchDocPreview
+*.su
+Status Report.txt
+Thumbs.db
+*.zip
+/KamikaAtollic

@@ -1,0 +1,9 @@
+[Design Root]
+Version=1.0.0
+[Directory]
+ADuCDn.Sch=Sch
+ADuCDn.PCB=PCB
+[ADuCDn.Sch]
+Editor Kind=Sch
+[ADuCDn.PCB]
+Editor Kind=PCB

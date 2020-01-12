@@ -1,0 +1,23 @@
+Protel Design System Design Rule Check
+PCB File : D:\Design\MLACH\Adapter\ADuCDn\ADuCDn.PCB
+Date     : 15-Jul-2001
+Time     : 16:20:56
+
+Processing Rule : Clearance Constraint (Gap=20mil)  Scope=Net(GND,  - Different Nets Only
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=200mil)  Scope=Board
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil)  Scope=Board - Different Nets Only
+Rule Violations :0
+
+Processing Rule : Broken-Net Constraint (  Scope=Board )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Not Allowed)  Scope=Board - Different Nets Only
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01
